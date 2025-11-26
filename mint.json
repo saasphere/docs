@@ -1,0 +1,8 @@
+{
+  "title": "Swiftfin API Docs",
+  "name": "swiftfin-docs",
+  "openapi": "openapi.yaml",
+  "meta": {
+    "description": "Interactive API docs for Swiftfin"
+  }
+}
